@@ -9,12 +9,20 @@ Docker repositories for automated builds on DockerHub.
 - Base Image: armv7/armhf-debian
 - Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
-###Run
+###Docker Pull Command
+docker pull lluna89/debian-armhf-apache
 
-docker run -d -p 80:80/tcp -p 443:443/tcp -v /conf.d:/conf.d lluna89/debian-armhf-apache
+###Run
+docker run -d -p 80:80/tcp -p 443:443/tcp lluna89/debian-armhf-apache
 
 ###Usage
 - URL: http://localhost:80/
+
+###Ports
+| Port  | Description |
+| ------------- | ------------- |
+| 80/tcp  | HTTP port  |
+| 443/tcp  | HTTPS port  |
 
 
 
