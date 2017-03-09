@@ -1,4 +1,4 @@
-# [debian-armhf-apache](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
+# [debian-armhf-apache](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
 
 ##Description
 - Distribution: Debian
