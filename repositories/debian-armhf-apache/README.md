@@ -10,7 +10,7 @@
 - Base Image: armv7/armhf-debian
 - Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
-##Docker Pull Command
+##Pull
 docker pull lluna89/debian-armhf-apache
 
 ##Run
