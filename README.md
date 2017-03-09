@@ -1,7 +1,7 @@
 # DockerHub Repositories [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 Docker repositories for automated builds on DockerHub. 
 
-## [debian-armhf-apache](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
+## [debian-armhf-apache](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
 
 ###Description
 - Distribution: Debian
