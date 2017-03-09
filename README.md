@@ -12,11 +12,7 @@ Appplication : Apache
 
 ###Run
 
-docker run -d \
-           -p 80:80/tcp \
-           -p 443:443/tcp \
-           -v /conf.d:/conf.d \
-           lluna89/debian-armhf-apache
+docker run -d -p 80:80/tcp -p 443:443/tcp -v /conf.d:/conf.d lluna89/debian-armhf-apache
 
 
 
