@@ -4,15 +4,18 @@ Docker repositories for automated builds on DockerHub.
 ## [debian-armhf-apache](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
 
 ###Description
-Distribution : Debian
-Architecture : armhf
-Base Image : armv7/armhf-debian
-Appplication : Apache
-        Apache HTTP Server [Apache] is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation
+- Distribution: Debian
+- Architecture: armhf
+- Base Image: armv7/armhf-debian
+- Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
 ###Run
 
 docker run -d -p 80:80/tcp -p 443:443/tcp -v /conf.d:/conf.d lluna89/debian-armhf-apache
+
+###Usage
+- URL: http://localhost:80/
+
 
 
 
