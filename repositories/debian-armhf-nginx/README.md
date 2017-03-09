@@ -10,7 +10,7 @@
 - Base Image: armv7/armhf-debian
 - Application: Nginx (Nginx is a web server, which can also be used as a reverse proxy, load balancer and HTTP cache. Nginx was created by Igor Sysoev)
 
-##Docker Pull Command
+##Pull
 docker pull lluna89/debian-armhf-nginx
 
 ##Run
