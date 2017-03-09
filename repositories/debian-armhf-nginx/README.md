@@ -1,8 +1,6 @@
 # [debian-armhf-nginx](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
-[![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
-[![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
-[![Hex.pm](https://images.microbadger.com/badges/stars/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
-[![Hex.pm](https://images.microbadger.com/badges/pulls/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
+[![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
+[![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
 
 ##Description
 - Distribution: Debian
