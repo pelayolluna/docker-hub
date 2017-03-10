@@ -1,5 +1,5 @@
 # DockerHub Repositories [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-Docker repositories for automated builds on DockerHub. 
+Docker repositories on DockerHub for automated builds. 
 
 ## [debian-armhf-apache](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-apache)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
@@ -29,7 +29,7 @@ Docker repositories for automated builds on DockerHub.
 - Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
 ## [ubuntu-armhf-nginx](https://github.com/pelayolluna/docker-hub/tree/master/repositories/ubuntu-armhf-nginx)
-[![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/)
+[![Hex.pm](https://images.microbadger.com/badges/version/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/)
 
 ###Description
 - Distribution: Ubuntu
