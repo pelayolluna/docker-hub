@@ -1,4 +1,4 @@
-# [ubuntu-armhf-nginx](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/)
+# [ubuntu-armhf-nginx](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/)
 
 ##Description
 - Distribution: Ubuntu
