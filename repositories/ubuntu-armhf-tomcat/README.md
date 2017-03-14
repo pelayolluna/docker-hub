@@ -4,7 +4,7 @@
 ###Description
 - Distribution: Ubuntu
 - Architecture: armhf
-- Base Image: armv7/armhf-ubuntu
+- Base Image: armv7/armhf-java8
 - Application: Tomcat (Apache Tomcat is an open-source Java Servlet Container developed by the Apache Software Foundation (ASF), Tomcat implements several Java EE specifications including Java Servlet, JavaServer Pages (JSP), Java EL, and WebSocket, and provides a "pure Java" HTTP web server environment in which Java code can run)
 
 ###Pull
