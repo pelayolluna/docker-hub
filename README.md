@@ -11,7 +11,7 @@ Docker repositories on DockerHub for automated builds.
 - Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
 ## [debian-armhf-nginx](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-nginx)
-[![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
+[![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-nginx.svg)](https://microbadger.com/images/lluna89/debian-armhf-nginx) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-nginx.svg)](https://microbadger.com/images/lluna89/debian-armhf-nginx) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
 
 ###Description
 - Distribution: Debian
