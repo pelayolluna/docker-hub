@@ -13,7 +13,7 @@ Docker repositories on DockerHub for automated builds.
 ## [debian-armhf-nginx](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-nginx)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-nginx.svg)](https://microbadger.com/images/lluna89/debian-armhf-nginx) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-nginx.svg)](https://microbadger.com/images/lluna89/debian-armhf-nginx) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/debian-armhf-nginx/)
 
-###Description
+### Description
 - Distribution: Debian
 - Architecture: armhf
 - Base Image: armv7/armhf-debian
