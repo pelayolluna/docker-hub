@@ -4,7 +4,7 @@ Docker repositories on DockerHub for automated builds.
 ## [debian-armhf-apache](https://github.com/pelayolluna/docker-hub/tree/master/repositories/debian-armhf-apache)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/debian-armhf-apache.svg)](https://microbadger.com/images/lluna89/debian-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/debian-armhf-apache.svg)](https://hub.docker.com/r/lluna89/debian-armhf-apache/)
 
-###Description
+### Description
 - Distribution: Debian
 - Architecture: armhf
 - Base Image: armv7/armhf-debian
@@ -22,7 +22,7 @@ Docker repositories on DockerHub for automated builds.
 ## [ubuntu-armhf-apache](https://github.com/pelayolluna/docker-hub/tree/master/repositories/ubuntu-armhf-apache)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/ubuntu-armhf-apache.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-apache) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/ubuntu-armhf-apache.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-apache) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-apache.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-apache/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-apache.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-apache/)
 
-###Description
+### Description
 - Distribution: Ubuntu
 - Architecture: armhf
 - Base Image: armv7/armhf-ubuntu
@@ -31,7 +31,7 @@ Docker repositories on DockerHub for automated builds.
 ## [ubuntu-armhf-nginx](https://github.com/pelayolluna/docker-hub/tree/master/repositories/ubuntu-armhf-nginx)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/ubuntu-armhf-nginx.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-nginx) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-nginx.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-nginx/)
 
-###Description
+### Description
 - Distribution: Ubuntu
 - Architecture: armhf
 - Base Image: armv7/armhf-ubuntu
@@ -40,7 +40,7 @@ Docker repositories on DockerHub for automated builds.
 ## [ubuntu-armhf-tomcat](https://github.com/pelayolluna/docker-hub/tree/master/repositories/ubuntu-armhf-tomcat)
 [![Hex.pm](https://images.microbadger.com/badges/version/lluna89/ubuntu-armhf-tomcat.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-tomcat) [![Hex.pm](https://images.microbadger.com/badges/image/lluna89/ubuntu-armhf-tomcat.svg)](https://microbadger.com/images/lluna89/ubuntu-armhf-tomcat) [![Hex.pm](https://img.shields.io/docker/stars/lluna89/ubuntu-armhf-tomcat.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-tomcat/) [![Hex.pm](https://img.shields.io/docker/pulls/lluna89/ubuntu-armhf-tomcat.svg)](https://hub.docker.com/r/lluna89/ubuntu-armhf-tomcat/)
 
-###Description
+### Description
 - Distribution: Ubuntu
 - Architecture: armhf
 - Base Image: armv7/armhf-java8
