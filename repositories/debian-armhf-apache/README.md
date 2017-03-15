@@ -8,10 +8,10 @@
 - Application: Apache (Apache HTTP Server is the world's most used web server software. Apache is developed and maintained by an open community of developers under the auspices of the Apache Software Foundation)
 
 ## Pull
-docker pull lluna89/debian-armhf-apache
+`docker pull lluna89/debian-armhf-apache`
 
 ## Run
-docker run -it -p 80:80/tcp -p 443:443/tcp lluna89/debian-armhf-apache
+`docker run -it -p 80:80/tcp -p 443:443/tcp lluna89/debian-armhf-apache`
 
 ## Usage
 - URL: http://localhost:80/
