@@ -54,9 +54,3 @@ Docker repositories on DockerHub for automated builds.
 - Architecture: arm32v7
 - Base Image: arm32v7/ubuntu
 - Application: Oracle JDK 8u291 (The Java Development Kit (JDK) is an implementation of either one of the Java Platform, Standard Edition, Java Platform, Enterprise Edition, or Java Platform, Micro Edition platforms[1] released by Oracle Corporation in the form of a binary product aimed at Java developers)
-
-### Pull
-docker pull lluna89/arm32v7-java8
-
-### Run
-docker run -it lluna89/arm32v7-java8
